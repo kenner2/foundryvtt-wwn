@@ -1280,6 +1280,7 @@
     min-height: 130px;
     margin-bottom: 10px;
     flex-basis: 100%;
+    border: gray 1px solid;
   }
   .wwn.sheet.item .sheet-body .item-footer {
     justify-content: center;
